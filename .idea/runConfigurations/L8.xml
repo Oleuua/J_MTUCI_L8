@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="L8" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.Oleuua.Crawler" />
+    <module name="J_MTUCI_L8" />
+    <option name="PROGRAM_PARAMETERS" value="http://bourabai.ru/tpoi/dss.htm 10 10" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
